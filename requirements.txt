@@ -1,0 +1,12 @@
+streamlit==1.28.1
+pdf2image==1.16.3
+Pillow>=10.0.0,<11
+torch==2.1.1
+torchvision==0.16.1
+torchaudio==2.1.1
+ultralytics==8.0.196
+huggingface-hub==0.19.4
+dill>=0.4.0
+opencv-python-headless==4.8.1.78
+numpy>=1.24.0,<1.26.0
+PyMuPDF==1.23.8
